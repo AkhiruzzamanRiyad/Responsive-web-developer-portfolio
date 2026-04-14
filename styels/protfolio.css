@@ -318,7 +318,7 @@ footer textarea {
         background-image: none;
     }
     .banner-profole-picture{
-        margin-top: 220px;
+        margin-top: 110px;
         width:70%;
         height: 70%;
     }
@@ -327,6 +327,9 @@ footer textarea {
     }
     nav >ul{
         gap:10px;
+    }
+    .btn-primary, .contact{
+        padding: 9px 16px;
     }
 
 }
